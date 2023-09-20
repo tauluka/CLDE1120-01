@@ -1,2 +1,2 @@
-# CLDE1120-01
+# tauluka-01
 DevOps Fundamentals CLDE1120-01 repository
